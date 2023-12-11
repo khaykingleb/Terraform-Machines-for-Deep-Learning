@@ -39,3 +39,4 @@ repos:
         stages: [commit-msg]
         additional_dependencies:
           - "@commitlint/config-conventional"
+          - "@commitlint/ensure"
